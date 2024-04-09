@@ -7,7 +7,6 @@ function App() {
 
   return (
     <CardContextProvider>
-      <h1>Hola</h1>
       <Card />
     </CardContextProvider>
   );

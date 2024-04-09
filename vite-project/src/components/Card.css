@@ -23,6 +23,10 @@
     padding: 20px;
   }
   
+    .card h2 {
+        color: #fff;
+        font-size: 1.5rem;
+        min-height: 100px;}
   
   
   .card img {
